@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Raleway";
+  src: local("Raleway"), url("../files/fonts/Raleway-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Raleway-Black";
+  src: local("Raleway-Black"), url("../files/fonts/Raleway-Black.ttf");
+}
+
+@font-face {
+  font-family: "Raleway-EXBold";
+  src: local("Raleway-EXBold"), url("../files/fonts/Raleway-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Playfair-Bold";
+  src: local("Playfair-Bold"), url("../files/fonts/PlayfairDisplay-Bold.ttf");
+}
